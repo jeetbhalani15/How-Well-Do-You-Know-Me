@@ -54,4 +54,4 @@ for (var i = 0; i < questions.length; i++) {
 
 console.log('\n----------------\n');
 console.log('THANK YOU FOR PLAYING !');
-console.log('YOUR SCORED : ' + score);
+console.log('YOU SCORED : ' + score);
