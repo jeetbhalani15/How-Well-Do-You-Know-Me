@@ -44,6 +44,20 @@ var questions = [
     question: 'In which feild is HE studing? :',
     answer: 'EC'
   }
+  ,
+  {
+    question: 'What is his pet name :',
+    answer: 'baliye'
+  },
+
+  {
+    question: 'Which sports do he play? :',
+    answer: 'badminton'
+  },
+  {
+    question: 'In which college he was? :',
+    answer: 'gec bharuch'
+  }
 ];
 
 //  loops for functions
